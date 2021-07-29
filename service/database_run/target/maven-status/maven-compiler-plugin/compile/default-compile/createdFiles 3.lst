@@ -1,0 +1,6 @@
+com/wind/database/run/controller/DatabaseController.class
+com/wind/database/run/client/TaskClient.class
+com/wind/database/DatabaseApplication.class
+com/wind/database/run/client/DataxClient.class
+com/wind/database/run/service/impl/DatabasesServiceImpl.class
+com/wind/database/run/service/DatabasesService.class

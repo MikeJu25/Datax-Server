@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Task_run" />
+        <module name="verification_run" />
+        <module name="datax_run" />
+        <module name="utils" />
+        <module name="Kafka_run" />
+        <module name="base" />
+        <module name="database_run" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common_utils" target="1.8" />
+      <module name="Mysql_run" target="1.8" />
+      <module name="test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Datax_server" options="" />
+      <module name="Kafka_run" options="-parameters" />
+      <module name="Mysql_run" options="-parameters" />
+      <module name="Task_run" options="-parameters" />
+      <module name="base" options="-parameters" />
+      <module name="common" options="" />
+      <module name="common_utils" options="-parameters" />
+      <module name="database_run" options="-parameters" />
+      <module name="datax_run" options="-parameters" />
+      <module name="service" options="" />
+      <module name="test" options="-parameters" />
+      <module name="utils" options="-parameters" />
+      <module name="verification_run" options="-parameters" />
+    </option>
+  </component>
+</project>

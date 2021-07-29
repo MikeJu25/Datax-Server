@@ -1,0 +1,5 @@
+com/wind/task/run/controller/TaskController.class
+com/wind/task/run/service/impl/TaskServiceImpl.class
+com/wind/task/run/service/TaskService.class
+com/wind/task/run/mapper/TaskMapper.class
+com/wind/task/TaskApplication.class

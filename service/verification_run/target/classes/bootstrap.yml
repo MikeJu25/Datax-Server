@@ -1,0 +1,30 @@
+spring:
+  application:
+    name: datax-verification-dev
+  cloud:
+    nacos:
+      config:
+        namespace: 17c1651a-9bde-41ce-ae27-98c24c22c749
+        file-extension: yaml
+        server-addr: 172.17.0.1:8848   #10.42.102.149:8848
+      discovery:
+        ip: 10.53.5.47
+        server-addr: 172.17.0.1:8848
+  profiles:
+    active: dev
+
+
+#      server-addr: 172.17.0.1:8848   // nacos的ip和端口
+#            discovery:
+#              ip: 10.53.5.47  // 服务器ip
+
+#      server-addr: 10.42.102.34:8848
+#      discovery:
+#        ip: 10.42.102.121
+
+
+#  datasource:
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#    url: jdbc:mysql://127.0.0.1:3306/wind?serverTimezone=GMT%2B8
+#    username: root
+#    password: root

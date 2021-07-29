@@ -1,0 +1,14 @@
+/Users/juweifu/Desktop/Datax_server 3.8/service/datax_run/src/main/java/com/wind/datax/run/service/DataxService.java
+/Users/juweifu/Desktop/Datax_server 3.8/service/datax_run/src/main/java/com/wind/datax/run/controller/LogController.java
+/Users/juweifu/Desktop/Datax_server 3.8/service/datax_run/src/main/java/com/wind/datax/run/mapper/LogMapper.java
+/Users/juweifu/Desktop/Datax_server 3.8/service/datax_run/src/main/java/com/wind/datax/run/controller/DataXController.java
+/Users/juweifu/Desktop/Datax_server 3.8/service/datax_run/src/main/java/com/wind/datax/run/service/impl/LogServiceImpl.java
+/Users/juweifu/Desktop/Datax_server 3.8/service/datax_run/src/main/java/com/wind/datax/run/source/JobContainer.java
+/Users/juweifu/Desktop/Datax_server 3.8/service/datax_run/src/main/java/com/wind/datax/run/client/KafkaClient.java
+/Users/juweifu/Desktop/Datax_server 3.8/service/datax_run/src/main/java/com/wind/datax/run/domain/Setting.java
+/Users/juweifu/Desktop/Datax_server 3.8/service/datax_run/src/main/java/com/wind/datax/run/source/Engine.java
+/Users/juweifu/Desktop/Datax_server 3.8/service/datax_run/src/main/java/com/wind/datax/run/service/LogService.java
+/Users/juweifu/Desktop/Datax_server 3.8/service/datax_run/src/main/java/com/wind/datax/run/util/DataxUtil.java
+/Users/juweifu/Desktop/Datax_server 3.8/service/datax_run/src/main/java/com/wind/datax/run/service/impl/DataxServiceImpl.java
+/Users/juweifu/Desktop/Datax_server 3.8/service/datax_run/src/main/java/com/wind/datax/DataxApplication.java
+/Users/juweifu/Desktop/Datax_server 3.8/service/datax_run/src/main/java/com/wind/datax/run/domain/Other.java
